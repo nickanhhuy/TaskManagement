@@ -1,0 +1,17 @@
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net9.0\TaskManagement.Infrastructure.deps.json
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net9.0\TaskManagement.Infrastructure.runtimeconfig.json
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net9.0\TaskManagement.Infrastructure.dll
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net9.0\TaskManagement.Infrastructure.pdb
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net9.0\TaskManagement.Core.dll
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net9.0\TaskManagement.Core.pdb
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.csproj.AssemblyReference.cache
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.AssemblyInfoInputs.cache
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.AssemblyInfo.cs
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.csproj.CoreCompileInputs.cache
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskMana.BCA0E1A6.Up2Date
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.dll
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\refint\TaskManagement.Infrastructure.dll
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.pdb
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.genruntimeconfig.cache
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\ref\TaskManagement.Infrastructure.dll

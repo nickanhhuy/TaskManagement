@@ -1,0 +1,11 @@
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Core\bin\Debug\net9.0\TaskManagement.Core.deps.json
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Core\bin\Debug\net9.0\TaskManagement.Core.dll
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Core\bin\Debug\net9.0\TaskManagement.Core.pdb
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.AssemblyInfoInputs.cache
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.AssemblyInfo.cs
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.csproj.CoreCompileInputs.cache
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.dll
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\refint\TaskManagement.Core.dll
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.pdb
+c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\ref\TaskManagement.Core.dll
