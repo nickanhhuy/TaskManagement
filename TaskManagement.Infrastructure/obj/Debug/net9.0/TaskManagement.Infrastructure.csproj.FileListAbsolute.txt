@@ -15,3 +15,4 @@ c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\ob
 c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.pdb
 c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.genruntimeconfig.cache
 c:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\ref\TaskManagement.Infrastructure.dll
+C:\Documents\Document\ASPProject\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.sourcelink.json

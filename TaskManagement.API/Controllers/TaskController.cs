@@ -1,11 +1,14 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 using TaskManagement.Core.DTOs;
 using TaskManagement.Core.Interfaces;
 using TaskManagement.Core.Models;
+using System.Security.Claims;
 namespace TaskManagement.API.Controllers;
 
 [Route("api/[controller]")]
+[Authorize]
 [ApiController]
 public class TasksController : ControllerBase
 {
@@ -93,7 +96,7 @@ public class TasksController : ControllerBase
         {
             return NotFound(new { message = $"Task with ID {id} not found" });
         }
-        patchDoc.ApplyTo(task, ModelState);
+        patchDoc.ApplyTo(task, error => ModelState.AddModelError("PatchError", error.ErrorMessage));
         if (!ModelState.IsValid)
         {
             return BadRequest(ModelState);

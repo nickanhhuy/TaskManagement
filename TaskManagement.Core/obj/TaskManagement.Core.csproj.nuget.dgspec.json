@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj": {}
+    "C:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj": {}
   },
   "projects": {
-    "c:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj": {
+    "C:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj",
+        "projectUniqueName": "C:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj",
         "projectName": "TaskManagement.Core",
-        "projectPath": "c:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj",
+        "projectPath": "C:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj",
         "packagesPath": "C:\\Users\\Huy\\.nuget\\packages\\",
-        "outputPath": "c:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Core\\obj\\",
+        "outputPath": "C:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

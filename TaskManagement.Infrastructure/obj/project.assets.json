@@ -3101,11 +3101,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
       "projectName": "TaskManagement.Infrastructure",
-      "projectPath": "c:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+      "projectPath": "C:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Huy\\.nuget\\packages\\",
-      "outputPath": "c:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Infrastructure\\obj\\",
+      "outputPath": "C:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3127,8 +3127,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "c:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj": {
-              "projectPath": "c:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj"
+            "C:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj": {
+              "projectPath": "C:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj"
             }
           }
         }

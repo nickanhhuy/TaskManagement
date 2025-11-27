@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qOadAPabMkY=",
+  "dgSpecHash": "iKcISjKuEIE=",
   "success": true,
-  "projectFilePath": "c:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+  "projectFilePath": "C:\\Documents\\Document\\ASPProject\\TaskManagement\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Huy\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Huy\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
